@@ -1,12 +1,15 @@
-Version 5.1.8 (September 7, 2020)
+Version 5.1.11 (October 18, 2020)
 - Code Base Changes:
-    - None
+    - xbmc.translatePath deprecated in Matrix
 
 - Resolvers Added:
-    - None
+    - Newtube
  
 - Resolvers Fixed/Updated:
-    - Premiumize
+    - Gounlimited
+    - Upstream
+    - Streamtape
+    - Fembed
 
 - Resolvers Removed
     - None
